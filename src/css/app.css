@@ -1,0 +1,40 @@
+.MasculinoPage,
+.FemininoPage,
+.CasualPage,
+.OutletPage {
+    height: 100vh; 
+    display: block;
+}
+
+
+.bg-purple {
+    background-color: rgb(87, 2, 87); 
+  }
+  
+
+.FemininoPage h1 {
+    color: rgb(87, 2, 87); 
+    font-size: 44px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+    
+} 
+
+.MasculinoPage h1 {
+    color: rgb(87, 2, 87); 
+    font-size: 44px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+    
+} 
+
+.OutletPage h1 {
+    color: rgb(87, 2, 87); 
+    font-size: 44px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+} 
+
+.CasualPage h1 {
+    color: rgb(87, 2, 87); 
+    font-size: 44px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+    
+} 
